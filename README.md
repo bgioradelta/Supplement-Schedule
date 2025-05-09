@@ -1,13 +1,4 @@
-# Supplement-Schedule
-
 # Supplement Schedule for Runners
-
-## 🧠 General Notes:
-- **Consistency > Timing** for most vitamins (especially B12, D, Omega-3).
-- **Hydration & Electrolytes** are key during and after runs.
-- **Avoid Overlapping B12** sources on the same day unless needed.
-- **Fat-soluble vitamins (like D and Omega-3)** are best taken with meals.
-- **Creatine and BCAA** timing matters more than the others.
 
 ## 🗓️ Daily Supplement Schedule (with Example Times)
 
@@ -47,6 +38,13 @@
 ### Optional Periodization:
 - **Creatine Loading** (if desired): 5g x 2/day for 5–7 days, then maintain at 3–5g/day.
 - **BCAA**: Use primarily on long-run days or fasted runs.
+
+## 🧠 General Notes:
+- **Consistency > Timing** for most vitamins (especially B12, D, Omega-3).
+- **Hydration & Electrolytes** are key during and after runs.
+- **Avoid Overlapping B12** sources on the same day unless needed.
+- **Fat-soluble vitamins (like D and Omega-3)** are best taken with meals.
+- **Creatine and BCAA** timing matters more than the others.
 
 ---
 
